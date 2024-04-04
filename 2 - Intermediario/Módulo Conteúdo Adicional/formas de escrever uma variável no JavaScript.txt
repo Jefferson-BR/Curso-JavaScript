@@ -1,0 +1,21 @@
+Convenções de Nomenclatura:
+
+Camel Case: Começa com uma letra minúscula e as palavras subsequentes começam com letras maiúsculas, sem espaços entre elas. Exemplo: nomeDaVariavel.
+
+Pascal Case: Similar ao Camel Case, mas começa com uma letra maiúscula. Exemplo: NomeDaVariavel.
+
+Snake Case: Todas as palavras são escritas em letras minúsculas e separadas por underscores. Exemplo: nome_da_variavel.
+
+Os 3 primeiros acima são aceitos em varias linguagens.
+
+continuando...
+
+Kebab Case: Todas as palavras são escritas em letras minúsculas e separadas por hífens. Exemplo: nome-da-variavel.
+
+Upper Snake Case (ou Scream Case): Todas as letras são maiúsculas e as palavras são separadas por underscores. Exemplo: NOME_DA_VARIAVEL.
+
+Train Case: Similar ao Upper Snake Case, mas com hífens em vez de underscores. Exemplo: NOME-DA-VARIAVEL.
+
+"Convenções de Nomenclatura" ou "Estilo de Nomenclatura" refere-se às regras ou padrões que uma comunidade de desenvolvedores adota para nomear elementos do código-fonte, como variáveis, funções, classes, métodos, etc. Essas convenções ajudam a manter o código consistente e legível, facilitando a compreensão do código por outros desenvolvedores e até mesmo por você mesmo no futuro.
+
+As convenções de nomenclatura geralmente incluem diretrizes sobre o uso de maiúsculas e minúsculas, separadores de palavras, comprimento do nome, escolha de palavras descritivas e outros elementos que afetam a clareza e a compreensão do código. Seguir uma convenção de nomenclatura comum também facilita a colaboração em projetos de equipe, pois todos os membros da equipe podem entender e seguir o mesmo estilo de codificação.

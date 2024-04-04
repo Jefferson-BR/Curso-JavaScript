@@ -1,0 +1,1 @@
+alert("O Arquivo externo está funcionando perfeitamente");
