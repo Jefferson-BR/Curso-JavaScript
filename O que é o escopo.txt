@@ -1,7 +1,0 @@
-O escopo se refere à visibilidade e acessibilidade de variáveis em diferentes partes do código. Ele determina onde no código uma variável pode ser acessada ou referenciada. Existem dois tipos principais de escopo em JavaScript:
-
-Escopo Global: Variáveis declaradas fora de qualquer função têm escopo global. Isso significa que elas podem ser acessadas de qualquer lugar no código, tanto dentro como fora de funções.
-
-Escopo Local: Variáveis declaradas dentro de uma função têm escopo local. Elas são acessíveis apenas dentro dessa função e não podem ser acessadas fora dela.
-
-O escopo ajuda a evitar conflitos de nomes e a organizar o código de forma mais clara e segura. Quando uma função é chamada, ela cria um novo escopo, e as variáveis declaradas dentro dela são visíveis apenas nesse escopo e nos escopos internos das funções aninhadas. Isso é conhecido como "escopo léxico" em JavaScript, o que significa que o escopo é determinado pela posição da declaração no código fonte.
