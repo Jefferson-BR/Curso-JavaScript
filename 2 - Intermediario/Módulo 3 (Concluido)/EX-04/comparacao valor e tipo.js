@@ -1,11 +1,14 @@
+// Define a variável numero como uma string contendo '5'
 var numero = '5';
 
-if(numero === 5) {
+// Verifica se o valor de numero é igual a 5 e do mesmo tipo
+if (numero === 5) {
+    // Se verdadeiro, imprime 'O Numero 5 é do mesmo tipo'
     console.log('O Numero 5 é do mesmo tipo');
-    // Esse operador compara o tipo de dado se ambos forem do mesmo tipo number + number ou
-    // string + string o resultado vai ser verdadeiro, do contrario sera falso.
 }
-if(numero !== '5') {
+
+// Verifica se o valor de numero é estritamente diferente de '5'
+if (numero !== '5') {
+    // Se verdadeiro, imprime 'O Numero 5 não é do mesmo tipo'
     console.log('O Numero 5 não é do mesmo tipo');
-    // Esse operador só vai ser acionado se o 5 que está no if for diferente do 5 que está na variavel
 }
