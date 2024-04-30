@@ -14,7 +14,7 @@ function teste_2(){
     let num_1 = 100
     console.log(num_1)
     // Embora a variavel (num_1) já tenha sido criada, não vai ocorrer nenhum problema de sintaxe.
-    // Afinal as variaveis são estão acessiveis dentro dos blocos, caso contrario haveria um erro.
+    // Afinal as variaveis só podem ser acessadas dentro dos blocos, caso contrario haveria um erro.
 }
 
 teste_2()

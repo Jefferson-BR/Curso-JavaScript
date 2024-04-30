@@ -20,6 +20,7 @@ while (x < 100) {
     if (x === 30 || x === 60 || x === 90) {
         console.log('Continue Executado'); // Imprime uma mensagem se x for um dos valores especificados
         continue; // Pula para a próxima iteração do loop sem executar o código abaixo
+        
     }
     
     console.log(`Repetição Número: ${x}`); // Imprime o valor de x em cada iteração, exceto quando x é 30, 60 ou 90
